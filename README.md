@@ -1,4 +1,4 @@
-# Liste des meetups
+# Liste des supports de présentation des meetups
 
 ## Meetup 02 : 24/11/2016
 
@@ -19,3 +19,10 @@
 - [Session 01](https://github.com/docker-noumea/meetup-S01E01) : Présentation du Docker meetup et Introduction à Docker - [Mathieu Filotto](https://github.com/mfilotto)
 
 - [Session 02](https://github.com/docker-noumea/meetup-S01E02) : Microsoft Windows Server 2016 et Azure - Micro services et Conteneurs par Siddick Elaheebocus (SPILOG) et [Julien Chable](https://github.com/jchable) (NCIT)
+
+# Liste des ressources conseillées
+
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker) : Liste soigneusement assemblée de ressources et projets sur Docker
+- [Open Container Ecosystem](https://www.mindmeister.com/fr/389671722/open-container-ecosystem-formerly-docker-ecosystem) : Présentation de différentes solutions de l'écosysteme dans un carte heuristique
+- [Apprendre Docker directement dans son navigateur](https://www.katacoda.com/)
+- [Jouer avec Docker directement dans son navigateur](http://play-with-docker.com/)
