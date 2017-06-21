@@ -1,5 +1,18 @@
 # Liste des supports de présentation des meetups
 
+
+## Meetup 03 : 21/06/2017
+
+- [Session 01](https://github.com/docker-noumea/meetup-S03E01) : Software Factory CI/CD Docker - [Mathieu Filotto](https://github.com/mfilotto)
+
+- [Session 02](https://github.com/docker-noumea/meetup-S03E02) : Ecosystème Docker pour les Dev .NET et les Ops Windows - [Julien Chable](https://github.com/jchable)
+
+- [Session 03](https://github.com/docker-noumea/meetup-S03E03) : Docker en production - exemple d’une application de valorisation de données issues de capteurs - [Sylvie Fiat](https://github.com/sylviefiat)
+
+- [Session 04](https://github.com/docker-noumea/meetup-S03E04) : Docker Swarm - Pour facilement distribuer vos containers - [Valentin Ouvrard](https://github.com/valentin2105)
+
+- [Session 05](https://github.com/docker-noumea/meetup-S03E05) : VMware vSphere Integrated Containers  - [François Corfdir]
+
 ## Meetup 02 : 24/11/2016
 
 - [Session 01](https://github.com/docker-noumea/meetup-S02E01) : Créer une image Docker - [Mathieu Filotto](https://github.com/mfilotto)
@@ -26,3 +39,4 @@
 - [Open Container Ecosystem](https://www.mindmeister.com/fr/389671722/open-container-ecosystem-formerly-docker-ecosystem) : Présentation de différentes solutions de l'écosystème dans une carte heuristique
 - [Apprendre Docker directement dans son navigateur](https://www.katacoda.com/)
 - [Jouer avec Docker directement dans son navigateur](http://play-with-docker.com/)
+- [Labs sur Docker](https://github.com/docker/labs)
