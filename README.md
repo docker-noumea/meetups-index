@@ -40,3 +40,9 @@
 - [Apprendre Docker directement dans son navigateur](https://www.katacoda.com/)
 - [Jouer avec Docker directement dans son navigateur](http://play-with-docker.com/)
 - [Labs sur Docker](https://github.com/docker/labs)
+
+# Liste des newsletters conseillées
+
+- [Docker Weekly](https://www.docker.com/newsletter-subscription)
+- [KubeWeekly](http://kube.news/)
+- [DevOpsLinks](http://devopslinks.com/)
