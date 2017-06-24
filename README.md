@@ -11,7 +11,7 @@
 
 - [Session 04](https://github.com/docker-noumea/meetup-S03E04) : Docker Swarm - Pour facilement distribuer vos containers - [Valentin Ouvrard](https://github.com/valentin2105)
 
-- [Session 05](https://github.com/docker-noumea/meetup-S03E05) : VMware vSphere Integrated Containers  - [François Corfdir]
+- [Session 05](https://github.com/docker-noumea/meetup-S03E05) : VMware vSphere Integrated Containers  - [François Corfdir](https://github.com/fcorfdir)
 
 ## Meetup 02 : 24/11/2016
 
