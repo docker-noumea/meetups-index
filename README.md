@@ -19,7 +19,7 @@
 
 - [Session 02](https://github.com/docker-noumea/meetup-S02E02) : Orchestrer ses containers avec Docker-compose - [Valentin Ouvrard](https://github.com/valentin2105)
 
-- [Session 03](https://github.com/docker-noumea/meetup-S02E03) : Déploiement et gestion d'un site web avec Rancher - Anthony Sigogne
+- [Session 03](https://github.com/docker-noumea/meetup-S02E03) : Déploiement et gestion d'un site web avec Rancher - [Anthony Sigogne](https://github.com/AnthonySigogne)
 
 - [Session 04](https://github.com/docker-noumea/meetup-S02E04) : Accélérer vos développements d’applications avec Docker et les conteneurs Windows Server - [Julien Chable](https://github.com/jchable)
 
