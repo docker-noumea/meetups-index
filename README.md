@@ -39,6 +39,7 @@
 - [Open Container Ecosystem](https://www.mindmeister.com/fr/389671722/open-container-ecosystem-formerly-docker-ecosystem) : Présentation de différentes solutions de l'écosystème dans une carte heuristique
 - [Apprendre Docker directement dans son navigateur](https://www.katacoda.com/)
 - [Jouer avec Docker directement dans son navigateur](http://play-with-docker.com/)
+- [Jouer avec Kubernetes directement dans son navigateur](http://play-with-k8s.com)
 - [Labs sur Docker](https://github.com/docker/labs)
 
 # Liste des newsletters conseillées
