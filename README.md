@@ -1,5 +1,10 @@
 # Liste des supports de présentation des meetups
 
+## Meetup 04 : 31/05/2018
+
+- [Session 01](https://docs.google.com/presentation/d/1mv8EB21O4X04R4ZbQnm3v1q-1-k6VE-XHunDMLNTKKw/edit#slide=id.p) : Kubernetes tips & tricks - [Valentin Ouvrard](https://github.com/valentin2105)
+
+- [Session 02](https://docs.google.com/presentation/d/1N_JHK3NiJAWOmHY0rcRiSKwcyEzxVvjTxv7sFq45_0Q/edit?usp=sharing) : Déployer vos applications sur Kubernetes avec Helm - [Mathieu Filotto](https://github.com/mfilotto)
 
 ## Meetup 03 : 21/06/2017
 
